@@ -1,7 +1,21 @@
+package com.example.eag.myapplication;
+
+import org.json.JSONArray;
+import org.json.JSONException;
+import org.json.JSONObject;
+
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStream;
+import java.io.InputStreamReader;
+import java.net.HttpURLConnection;
+import java.net.MalformedURLException;
+import java.net.URL;
+
 public class Consulta {
 
     public void GET() throws IOException, JSONException {
-
+        
         String content = "";
 
         URL urlFormed = new URL("https://euw1.api.riotgames.com/lol/champion-mastery/v3/champion-masteries/by-summoner/32148910?api_key=CLAVE_API");
@@ -45,10 +59,6 @@ public class Consulta {
             }
 
             bf.close();
-
         }
-
-
     }
-
 }
