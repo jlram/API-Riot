@@ -43,6 +43,6 @@ Ejemplo de consulta siguiendo el mismo nombre de invocador:
 
 Resultado obtenido en JSON:
 
-![Resultado](http://lmsotfy.com/so.png)
+![Resultado](https://i.imgur.com/H5Vsowt.png)
 
 Una vez obtenida esta información en forma de JSON, podremos trabajar en nuestra aplicación en AndroidStudio.
