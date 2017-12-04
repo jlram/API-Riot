@@ -22,7 +22,7 @@ La función principal consiste en la introducción del nombre de invocador del u
 
 ## Ejemplo de consulta básica
 
-Una vez dentro de la API SUMMONER-v3, al introducir el nombre de Invocador **"Pablito Terrores"**, obtendremos sus datos de invocador básicos, y de estos obtendremos la IP, con la que podremos obtener la información de sus campeones:
+Una vez dentro de la API SUMMONER-v3, al introducir el nombre de Invocador **"Pablito Terrores"**, obtendremos sus datos de invocador básicos, y de estos obtendremos el dato ID, con el que podremos obtener la información de sus campeones:
 
 Una consulta básica sería:
 
@@ -34,5 +34,15 @@ Por lo que obtendremos un resultado tal como:
 ```
 {"id":32148910,"accountId":35861352,"name":"Pablito Terrores","profileIconId":1228,"revisionDate":1512344905000,"summonerLevel":36}
 ```
+Por tanto, usando el primer dato obtenido, ID, obtenemos los datos de sus principales campeones mediante la API CHAMPION-MASTERY-v3
+
+Ejemplo de consulta siguiendo el mismo nombre de invocador:
+```
+
+```
+
+Resultado obtenido en JSON:
+
+![alt text](https://imgur.com/H5Vsowt)
 
 Una vez obtenida esta información en forma de JSON, podremos trabajar en nuestra aplicación en AndroidStudio.
