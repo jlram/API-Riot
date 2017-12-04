@@ -38,7 +38,7 @@ Por tanto, usando el primer dato obtenido, ID, obtenemos los datos de sus princi
 
 Ejemplo de consulta siguiendo el mismo nombre de invocador:
 ```
-
+https://euw1.api.riotgames.com/lol/champion-mastery/v3/champion-masteries/by-summoner/32148910?api_key=CLAVE_DE_API
 ```
 
 Resultado obtenido en JSON:
