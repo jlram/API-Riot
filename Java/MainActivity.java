@@ -41,16 +41,14 @@ public class MainActivity extends AppCompatActivity {
         mButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                boolean user = false;
-                boolean pwd = false;
 
                 Intent i = new Intent(MainActivity.this, SummonerActivity.class);
 
                 i.putExtra("nombreExtra", mEditUser.getText().toString());
                 i.putExtra("serverExtra", mSpinner.getSelectedItem().toString());
-                //if ((user == true) && (pwd == true)) {
+
                     startActivity(i);
-                //}
+                
 
             }
         });
