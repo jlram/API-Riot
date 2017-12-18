@@ -1,5 +1,5 @@
-# API Key actualizada cada día
-## Para insertarla en el programa solo nos será necesario cambiar el valor de R.strings.API
+# API Key
+ Para insertarla en el programa solo nos será necesario cambiar el valor de R.strings.API
 
 ### Key de 18/12/2016
 ```
