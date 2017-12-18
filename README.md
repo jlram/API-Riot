@@ -43,6 +43,6 @@ https://euw1.api.riotgames.com/lol/champion-mastery/v3/champion-masteries/by-sum
 
 Resultado obtenido en JSON:
 
-![Resultado](https://i.imgur.com/H5Vsowt.png)
+![Resultado](https://i.imgur.com/jmdcPpz.png)
 
 Una vez obtenida esta información en forma de JSON, podremos trabajar en nuestra aplicación en AndroidStudio.
