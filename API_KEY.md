@@ -1,9 +1,9 @@
 # API Key
  Para insertarla en el programa solo nos será necesario cambiar el valor de R.strings.API
 
-### 18/12/2016
+### 19/12/2016
 ```
-RGAPI-fcf7da8e-4fc0-4c91-8903-11f25541f5c6
+RGAPI-4ec6e9b6-d9fa-49a6-a010-058bff2cc899
 ```
 
 ## Ejemplos de Jugadores y sus servidores.
