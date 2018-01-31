@@ -1,4 +1,5 @@
 # API-Riot
+Update 30/12 - Riot Games ha aprobado mi solicitud para poder usar mi aplicación frente al público dándome una clave de API de desarrollador. Continuaré el desarrollo de mi aplicación el verano de 2018.
 
 Aplicación para Android básica sobre la consulta de datos de jugadores de **League Of Legends**.
 
